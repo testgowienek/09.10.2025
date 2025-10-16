@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<title>Mapa z kawałków</title>
+<style>
+  body {
+    background: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  .mapa {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    gap: 2px;
+  }
+  img {
+    width: 100px; /* możesz zmienić np. na 150px */
+    height: auto;
+    display: block;
+  }
+</style>
+</head>
+<body>
+  <div class="mapa">
+    <img src="a.png" alt="">
+    <img src="bylo.png" alt="">
+    <img src="domu.png" alt="">
+    <img src="droga.png" alt="">
+    <img src="jakoby.png" alt="">
+    <img src="jeno.png" alt="">
+    <img src="mi.png" alt="">
+    <img src="moim.png" alt="">
+    <img src="moja.png" alt="">
+    <img src="moja_.png" alt="">
+    <img src="najmilsza.png" alt="">
+    <img src="nas.png" alt="">
+    <img src="nic.png" alt="">
+    <img src="nie.png" alt="">
+    <img src="nie_.png" alt="">
+    <img src="nikogo.png" alt="">
+    <img src="Orszulo.png" alt="">
+    <img src="Orszulo_.png" alt="">
+    <img src="Pelno.png" alt="">
+    <img src="pustki.png" alt="">
+    <img src="swoim.png" alt="">
+    <img src="swiata.png" alt="">
+    <img src="Twego.png" alt="">
+    <img src="tym.png" alt="">
+    <img src="uczynila.png" alt="">
+    <img src="w.png" alt="">
+    <img src="Wielkies.png" alt="">
+    <img src="z.png" alt="">
+    <img src="zniknieniem.png" alt="">
+    <img src="zostalo.png" alt="">
+  </div>
+</body>
+</html>
