@@ -1,78 +1,44 @@
-<!DOCTYPE html>
-<html lang="pl">
+<tr>
+  <td>
+    <img src="img/mi.png">
+    <img src="img/moja.png">
+    <img src="img/Petno.png">
+    <img src="img/było.png">
+    <img src="img/Orszulo.png">
+    <img src="img/najmilsza.png">
+  </td>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>MAPA POLSKI</title>
+  <td>
+    <img src="img/uczyniła.png">
+    <img src="img/droga.png">
+    <img src="img/nas.png">
+    <img src="img/z.png">
+    <img src="img/nie_.png">
+    <img src="img/najmilsza.png">
+  </td>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+  <td>
+    <img src="img/pustki.png">
+    <img src="img/Orszulo.png">
+    <img src="img/a.png">
+    <img src="img/Twego.png">
+    <img src="img/zostalo.png">
+    <img src="img/najmilsza.png">
+  </td>
 
-        html,
-        body {
-            height: 100%;
-        }
+  <td>
+    <img src="img/w.png">
+    <img src="img/tym.png">
+    <img src="img/jakoby.png">
+    <img src="img/świata.png">
+    <img src="img/nic.png">
+    <img src="img/najmilsza.png">
+  </td>
 
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #fff;
-        }
-
-        .kontener {
-            display: inline-block;
-            line-height: 0;
-        }
-
-        table {
-            border-collapse: collapse;
-            border-spacing: 0;
-        }
-
-        tr,
-        td {
-            margin: 0;
-            padding: 0;
-            border: none;
-        }
-
-        img {
-            display: block;
-            margin: 0;
-            padding: 0;
-            border: none;
-        }
-
-        header {
-            color: rgb(15, 15, 15);
-            min-height: 50px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            letter-spacing: 5px;
-            border-bottom: 1px solid blue;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="kontener">
-
-        <header>
-           <h3>MAPA POLSKI - podział administracyjny</h3>
-        </header>
-
-
-        <table>
-           
-        </table>
-    </div>
-</body>
-
-</html>
+  <td>
+    <img src="img/zniknieniem.png">
+    <img src="img/nikogo.png">
+    <img src="img/najmilsza.png">
+    <img src="img/moja.png">
+  </td>
+</tr>
