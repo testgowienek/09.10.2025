@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MAPA POLSKI</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #fff;
+            flex-direction: column;
+        }
+
+        .kontener {
+            display: inline-block;
+            line-height: 0;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        td {
+            margin: 0;
+            padding: 0;
+            border: none;
+        }
+
+        img {
+            display: block;
+            width: 120px; /* Zmieniaj rozmiar według potrzeb */
+            height: auto;
+        }
+
+        header {
+            color: rgb(15, 15, 15);
+            min-height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            letter-spacing: 5px;
+            border-bottom: 1px solid blue;
+            margin-bottom: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="kontener">
+
+        <header>
+            <h3>MAPA POLSKI - podział administracyjny</h3>
+        </header>
+
+        <table>
+            <tr>
+                <td><img src="a.png"></td>
+                <td><img src="bylo.png"></td>
+                <td><img src="domu.png"></td>
+                <td><img src="droga.png"></td>
+                <td><img src="jakoby.png"></td>
+                <td><img src="jeno.png"></td>
+                <td><img src="mi.png"></td>
+                <td><img src="moim.png"></td>
+                <td><img src="moja.png"></td>
+                <td><img src="moja_.png"></td>
+            </tr>
+            <tr>
+                <td><img src="najmilsza.png"></td>
+                <td><img src="nas.png"></td>
+                <td><img src="nic.png"></td>
+                <td><img src="nie.png"></td>
+                <td><img src="nie_.png"></td>
+                <td><img src="nikogo.png"></td>
+                <td><img src="Orszulo.png"></td>
+                <td><img src="Orszulo_.png"></td>
+                <td><img src="Pelno.png"></td>
+                <td><img src="pustki.png"></td>
+            </tr>
+            <tr>
+                <td><img src="swoim.png"></td>
+                <td><img src="swiata.png"></td>
+                <td><img src="Twego.png"></td>
+                <td><img src="tym.png"></td>
+                <td><img src="uczynila.png"></td>
+                <td><img src="w.png"></td>
+                <td><img src="Wielkies.png"></td>
+                <td><img src="z.png"></td>
+                <td><img src="zniknieniem.png"></td>
+                <td><img src="zostalo.png"></td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>
